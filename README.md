@@ -8,7 +8,7 @@ Clonar o Repositório:
 
 ## bash
 
-git clone https://github.com/seuusuario/nome-do-projeto.git
+git clone https://github.com/hluna23/formulario.git
 <br>
 
 Abrir o Projeto:
